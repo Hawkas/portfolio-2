@@ -1,0 +1,27 @@
+{
+	"name": "portfolio_nextjs",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start"
+	},
+	"dependencies": {
+		"@lottiefiles/react-lottie-player": "^3.4.7",
+		"@mantine/core": "^4.2.9",
+		"@mantine/hooks": "^4.2.9",
+		"@mantine/next": "^4.2.9",
+		"@svgr/webpack": "^6.2.1",
+		"next": "^12.1.6",
+		"ngrok": "^4.0.1",
+		"react": "17.0.2",
+		"react-dom": "17.0.2",
+		"react-icons": "^4.2.0",
+		"styled-components": "^5.3.5",
+		"styled-normalize": "^8.0.7"
+	},
+	"devDependencies": {
+		"next-optimized-images": "^2.6.2"
+	}
+}
